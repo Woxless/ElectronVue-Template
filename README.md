@@ -1,4 +1,4 @@
-# qdp
+# ElectronVue-Template
 
 ## Project setup
 ```
